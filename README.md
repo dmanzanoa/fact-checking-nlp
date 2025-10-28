@@ -6,11 +6,6 @@ claims and automatically determine their veracity by (1) retrieving
 supporting evidence passages from a large corpus and (2) classifying the
 claim–evidence pairs using a lightweight neural network.
 
-The code is derived from an educational notebook and has been refactored
-into a set of modular Python files.  Boilerplate instructional text has been
-removed, and the repository focuses on the core logic required to build a
-baseline system.  You can use this project as a starting point for your own
-experiments with information retrieval and claim verification.
 
 ## Project structure
 
