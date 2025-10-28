@@ -1,0 +1,7 @@
+pandas
+numpy
+nltk
+scikit-learn
+torch
+torchtext
+rank_bm25
