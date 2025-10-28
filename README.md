@@ -64,18 +64,6 @@ should download these resources manually using `nltk.download()`.
 3. Modify or extend the modules to experiment with other retrieval methods
    (e.g. neural search) or classification models (e.g. Transformers).
 
-## Background
-
-The workflow implemented here reflects common practice in fact‑checking
-research: a claim is paired with a small set of candidate evidence passages
-retrieved from a large corpus, and a classifier predicts the label based on
-the combined text.  While this repository provides a minimalist baseline,
-successful systems often incorporate advanced techniques such as pre‑trained
-language models and sophisticated retrieval mechanisms.  Good research
-projects balance clear presentation with substantive experimentation and
-sound methodology.  Typical evaluation criteria for projects like this
-include clarity of writing, effectiveness of tables/figures, methodological
-soundness and convincing results【533169095099516†L640-L673】.
 
 ## Contributing
 
